@@ -1,0 +1,13 @@
+/*Flex*/
+body {
+  display: flex;
+  align-items: center;
+  height: 100vh;
+}
+
+/*Position*/
+.center {
+  position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
